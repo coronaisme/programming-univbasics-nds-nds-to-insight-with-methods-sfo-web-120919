@@ -14,7 +14,7 @@ def directors_totals(nds)
     result[director_name] = 0
     movie_index = 0
     
-    while director_name
+    while movie_index < nds[]
   
 end
 
