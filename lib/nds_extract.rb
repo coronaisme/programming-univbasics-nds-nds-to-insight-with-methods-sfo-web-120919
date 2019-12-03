@@ -19,6 +19,8 @@ def directors_totals(nds)
       movie_index += 1 
     end
     director_index += 1
+  end
+  result
 end
 
 # Find a way to accumulate the :worldwide_grosses and return that Integer
