@@ -9,7 +9,8 @@ def directors_totals(nds)
   director_index = 0
   result = {}
   
-  while director_index < nds.length
+  while director_index < nds.length do
+    director_name = 
   
 end
 
